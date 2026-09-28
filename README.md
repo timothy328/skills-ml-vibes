@@ -13,6 +13,12 @@ that can be shared across AI agents.
 - [Pandas dataset comparer](data-science-skills/pandas-dataset-comparer.md)
 - [Inference JSON schema checker](data-science-skills/inference-json-schema-checker.md)
 
+## Documentation and collaboration skills
+
+- [GitHub PR description writer](data-science-skills/github-pr-description-writer.md)
+- [Changelog writer](data-science-skills/changelog-writer.md)
+- [Documentation Markdown writer](data-science-skills/documentation-md-writer.md)
+
 Each skill file is a dedicated place to document the instructions, inputs,
 steps, and expected outputs for its task.
 
