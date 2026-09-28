@@ -14,6 +14,7 @@ that can be shared across AI agents.
 - [Inference JSON schema checker](data-science-skills/inference-json-schema-checker.md)
 - [Deployment preparation](data-science-skills/deployment-preparation.md)
 - [Production model monitoring](data-science-skills/production-model-monitoring.md)
+- [A/B test measurement](data-science-skills/ab-test-measurement.md)
 
 ## Documentation and collaboration skills
 
