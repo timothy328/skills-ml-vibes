@@ -19,8 +19,11 @@ that can be shared across AI agents.
 - [Changelog writer](data-science-skills/changelog-writer.md)
 - [Documentation Markdown writer](data-science-skills/documentation-md-writer.md)
 
-Each skill file is a dedicated place to document the instructions, inputs,
-steps, and expected outputs for its task.
+These documents are reusable task requirements, not tool-specific commands.
+Use the relevant skill as a checklist when performing that task in a project.
+Project-specific constraints and an explicitly supplied data or API contract
+take precedence; surface conflicts or missing decisions rather than silently
+inventing requirements.
 
 ## License
 
