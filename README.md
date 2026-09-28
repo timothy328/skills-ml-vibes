@@ -12,6 +12,8 @@ that can be shared across AI agents.
 - [Uniform EDA](data-science-skills/uniform-eda.md)
 - [Pandas dataset comparer](data-science-skills/pandas-dataset-comparer.md)
 - [Inference JSON schema checker](data-science-skills/inference-json-schema-checker.md)
+- [Deployment preparation](data-science-skills/deployment-preparation.md)
+- [Production model monitoring](data-science-skills/production-model-monitoring.md)
 
 ## Documentation and collaboration skills
 
